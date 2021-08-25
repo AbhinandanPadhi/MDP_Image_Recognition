@@ -1,3 +1,3 @@
 # CZ3004 Mutli-Disciplinary Design Project (MDP) of Group 29, Semester 1 - AY20/21
 
-This repository contains code from the Group 29 Algorithms and Raspberry Pi (RPi) teams, and is currently a Work in Progress.
+This repository contains Image Recognition code for MDP Group 29, NTU Semester 1, 2020-21.
